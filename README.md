@@ -22,9 +22,6 @@ This project predicts stock market trends using historical data from Nifty50. It
 - R² Score: ~0.99
 - RMSE: ~50
 
-## ▶️ Run in Colab
-[Open in Colab](https://colab.research.google.com/github/yourusername/repo-name/blob/main/stock-trend-prediction/stock-trend-prediction.ipynb)
-
 ## 📁 Files
 - stock-trend-prediction.ipynb
 - Nifty50.csv
